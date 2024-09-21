@@ -1,7 +1,9 @@
 # JavaScript-Actuator-Starter
+
+![Static Badge](https://img.shields.io/badge/version-0.0.1-brightgreen?style=flat)
 ![Static Badge](https://img.shields.io/badge/jdk-17-brightgreen?style=flat)
 ![Static Badge](https://img.shields.io/badge/SpringBoot-3.2.5-brightgreen?style=flat)
-
+![Static Badge](https://img.shields.io/badge/graalvmJs-32.0.4-brightgreen?style=flat)
 > Spring Boot JavaScript 执行器提供简单的Java执行JS封装
 
 
