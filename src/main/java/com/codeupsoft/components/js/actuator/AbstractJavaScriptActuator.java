@@ -9,7 +9,7 @@ import org.graalvm.polyglot.Value;
 /**
  * JavaScript Actuator
  *
- * @author didi.liu@codeupsoft.com
+ * @author dongdong.liu@codeupsoft.com
  */
 public abstract class AbstractJavaScriptActuator<T, K> {
 

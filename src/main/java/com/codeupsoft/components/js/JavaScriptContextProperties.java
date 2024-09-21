@@ -5,7 +5,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * Context Properties
  *
- * @author didi.liu@codeupsoft.com
+ * @author dongdong.liu@codeupsoft.com
  */
 
 @ConfigurationProperties(prefix = "code-up-soft.javascript.actuator")

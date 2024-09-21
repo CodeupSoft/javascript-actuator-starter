@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * AutoRegisterConfiguration
  *
- * @author didi.liu@codeupsoft.com
+ * @author dongdong.liu@codeupsoft.com
  */
 
 @EnableConfigurationProperties(JavaScriptContextProperties.class)

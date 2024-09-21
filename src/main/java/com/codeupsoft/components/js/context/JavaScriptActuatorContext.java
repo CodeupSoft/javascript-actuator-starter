@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * 执行器上下文
  *
- * @author didi.liu@codeupsoft.com
+ * @author dongdong.liu@codeupsoft.com
  */
 public class JavaScriptActuatorContext {
 
